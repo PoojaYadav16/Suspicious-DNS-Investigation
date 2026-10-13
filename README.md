@@ -1,5 +1,6 @@
-# Suspicious DNS Activity Investigation & Incident Response
+![Project Cover](project-cover.png)
 
+# Suspicious DNS Activity Investigation & Incident Response
 ## Project Overview
 This project demonstrates a beginner-level Security Operations Center (SOC) investigation using Wireshark and Kali Linux. The goal was to generate controlled DNS query activity, capture the network traffic, and investigate repeated DNS requests.
 
