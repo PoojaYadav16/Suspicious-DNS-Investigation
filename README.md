@@ -1,4 +1,4 @@
-![Project Cover](project-cover.png)
+![Project Cover](<Suspicious DNS Investigation image.png>)
 
 # Suspicious DNS Activity Investigation & Incident Response
 ## Project Overview
